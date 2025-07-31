@@ -1,17 +1,17 @@
 # Welcome to Lorraine's GitHub Page 👋
 
-#### About Me
+## About Me
 Hey there! I'm Lorraine Yang, a rising Junior at Cornell University. 
 My academic and professional interests lie at the intersection of data science, machine learning, and the environment.
 I have a strong passion for applying technical skills to real-world problems in music, conservation bioacoustics, and sustainability.
 
-#### Education
+## Education
 -  Major: Statistics and Data Science
 -  Minors: Music, Environment & Sustainability
 
 ---
 
-### 🍴 Project
+## Project
 
 ### Wine Quality
 - [Wine Quality Predictions](https://github.com/dyang0910/Wine-Quality-Prediction): Build regression and classification models that accurately predict the sensory quality score and to evaluate the performance of different ML techniques.

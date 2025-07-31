@@ -13,14 +13,18 @@ I have a strong passion for applying technical skills to real-world problems in 
 
 ### 🍴 Project
 
-### Wine Quality Prediction
--
+### Wine Quality
+- [Wine Quality Predictions](https://github.com/dyang0910/Wine-Quality-Prediction): Build regression and classification models that accurately predict the sensory quality score and to evaluate the performance of different ML techniques.
+  - [Final Report](https://docs.google.com/document/d/1q9vkfAoFUbGqNIYz1vkdpG2CViPg337FwgvHLh9xOB4/edit?tab=t.0)
+  - Framework: R, Regression Models, Classification Models
 
-### Stroke Prediction
-- 
+### Stroke
+- [Stroke Symptom Predictions](https://github.com/dyang0910/AI4ALL)
+  - Framework: Python
 
-### Birdcall Identifications
--
+### Birdcall (ongoing)
+- [Birdcall Classifications](https://github.com/dyang0910/Birdcall-Classifications): A hybrid machine learning and deep learning project that classifies corn bunting birdcalls using spectrograms, comparing feature-based models (like Random Forest) and CNNs, with visualizations to support biodiversity and ecological monitoring.
+  - Framework: Python, Classical ML Models, Deep Learning Models, Web Scraping, Forecasting
 
-### Automatic Detection of Bowhead Whales
+### Automatic Detection of Bowhead Whales (ongoing)
 -

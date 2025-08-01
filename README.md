@@ -23,13 +23,11 @@ I have a strong passion for applying technical skills to real-world problems in 
   - [Final Report](https://docs.google.com/document/d/1q9vkfAoFUbGqNIYz1vkdpG2CViPg337FwgvHLh9xOB4/edit?tab=t.0)
   - Framework: R, Regression Models, Classification Models
 
-### Stroke
-- [Stroke Symptom Predictions](https://github.com/dyang0910/AI4ALL)
-  - Framework: Python
-
 ### Birdcall (ongoing)
 - [Birdcall Classifications](https://github.com/dyang0910/Birdcall-Classifications): A hybrid machine learning and deep learning project that classifies corn bunting birdcalls using spectrograms, comparing feature-based models (like Random Forest) and CNNs, with visualizations to support biodiversity and ecological monitoring.
   - Framework: Python, Classical ML Models, Deep Learning Models, Web Scraping, Forecasting
 
 ### Automatic Detection of Bowhead Whales (ongoing)
--
+- Train a custom BirdNET transfer learning model to recognize bowhead whale simple calls.
+  - Framework: Python, BirdNET, Raven Pro, CNN.
+

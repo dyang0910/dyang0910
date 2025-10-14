@@ -19,9 +19,14 @@ I have a strong passion for applying technical skills to real-world problems in 
   - Framework: R, Python, Tableau, ARIMA, NLP, Naive Bayes Classifiers
 
 ### Wine Quality
-- [Wine Quality Predictions](https://github.com/dyang0910/Wine-Quality-Prediction): Build regression and classification models that accurately predict the sensory quality score and to evaluate the performance of different ML techniques.
+- [Wine Quality Predictions](https://github.com/dyang0910/Wine-Quality-Prediction): Build regression and classification models that accurately predict the sensory quality score and evaluate the performance of different ML techniques.
   - [Final Report](https://docs.google.com/document/d/1q9vkfAoFUbGqNIYz1vkdpG2CViPg337FwgvHLh9xOB4/edit?tab=t.0)
   - Framework: R, Regression Models, Classification Models
+ 
+### Plankton Classifiers
+- [Integrating Metadata for Enhanced Phytoplankton Classification](https://github.com/EthanFeld/PlanktonClassifier)
+  - [Final Presentation](https://drive.google.com/file/d/1sdSu8h90h5onIoWAtN3f-HSe_O9eJQpX/view?usp=sharing): Compare performances between neural network architectures and determine whether addition of environmental parameters (e.g.temperature, salinity, etc) will improve classification accuracies for plankton classification to determine model efficiencies.
+  - Framework: Multilayer Perceptron, CNN, Vision Transformer, ResNet50, ResNeXt, DenseNet121, MobileNetV2
 
 ### Birdcall (ongoing)
 - [Birdcall Classifications](https://github.com/dyang0910/Birdcall-Classifications): A hybrid machine learning and deep learning project that classifies corn bunting birdcalls using spectrograms, comparing feature-based models (like Random Forest) and CNNs, with visualizations to support biodiversity and ecological monitoring.
